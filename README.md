@@ -56,11 +56,11 @@ Install-package SixLabors.ImageSharp
 
 ### Encrypt a file into an image
 ```bash
-shadeofcolor.exe -crypt myfile.exe output.png
+./ShadeOfColor2.exe -crypt myfile.exe output.png
 ```
 ### Decrypt an image back into the original file
 ```bash
-shadeofcolor.exe -decrypt output.png
+./ShadeOfColor2.exe -decrypt output.png
 ```
 
 ---
