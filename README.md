@@ -39,7 +39,9 @@ The output looks like a normal PNG, but it actually carries your data inside its
 ## 📦 Usage
 
 ### Install
+```bash
 Install-package SixLabors.ImageSharp
+```
 
 ### Encrypt a file into an image
 ```bash
