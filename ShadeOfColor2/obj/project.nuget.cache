@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/eepCTHhK0U=",
+  "success": true,
+  "projectFilePath": "E:\\sviluppo\\ShadeOfColor2\\ShadeOfColor2\\ShadeOfColor2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\sixlabors.imagesharp\\3.1.11\\sixlabors.imagesharp.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
