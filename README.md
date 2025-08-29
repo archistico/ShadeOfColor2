@@ -15,7 +15,10 @@ Have you ever wanted to:
 
 With ShadeOfColor, you can **convert any file into an image** (`-crypt`) and later **recover the original file** (`-decrypt`).  
 The output looks like a normal PNG, but it actually carries your data inside its pixels.
-
+  
+Process  
+![screenshot-file](https://raw.githubusercontent.com/archistico/ShadeOfColor2/refs/heads/main/screenshot-process.png)
+  
 ### 🖥️ Screenshot
 
 FileToImage  
