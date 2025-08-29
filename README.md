@@ -12,6 +12,7 @@ Have you ever wanted to:
 - 📧 Send a file by email that the provider does not allow?  
 - ☁️ Store restricted file types on cloud services that only accept images?  
 - 🕵️ Add an extra layer of privacy when sharing files publicly?  
+- ✒ Are you a journalist in a totalitarian state and need to release a file?
 - 🔒 Exfiltrate data into systems that monitor suspicious files? 
 
 With ShadeOfColor, you can **convert any file into an image** (`-crypt`) and later **recover the original file** (`-decrypt`).  
