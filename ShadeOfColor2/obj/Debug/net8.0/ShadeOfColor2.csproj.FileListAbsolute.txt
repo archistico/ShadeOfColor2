@@ -1,0 +1,15 @@
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\bin\Debug\net8.0\ShadeOfColor2.exe
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\bin\Debug\net8.0\ShadeOfColor2.deps.json
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\bin\Debug\net8.0\ShadeOfColor2.runtimeconfig.json
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\bin\Debug\net8.0\ShadeOfColor2.dll
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.csproj.AssemblyReference.cache
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.GeneratedMSBuildEditorConfig.editorconfig
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.AssemblyInfoInputs.cache
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.AssemblyInfo.cs
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.csproj.CoreCompileInputs.cache
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfC.C00F3C20.Up2Date
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.dll
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\refint\ShadeOfColor2.dll
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ShadeOfColor2.genruntimeconfig.cache
+E:\sviluppo\ShadeOfColor2\ShadeOfColor2\obj\Debug\net8.0\ref\ShadeOfColor2.dll

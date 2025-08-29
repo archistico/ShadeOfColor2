@@ -59,11 +59,19 @@ Install-package SixLabors.ImageSharp
 ```bash
 ./ShadeOfColor2.exe -crypt myfile.exe output.png
 ```
+  
+```bash
+dotnet run -crypt FileToImage.cs out.png
+```
+  
 ### Decrypt an image back into the original file
 ```bash
 ./ShadeOfColor2.exe -decrypt output.png
 ```
-
+  
+```bash
+dotnet run -decrypt out.png
+```
 ---
 
 ## 🔒 Future Improvements
