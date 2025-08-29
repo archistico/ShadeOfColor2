@@ -18,8 +18,11 @@ The output looks like a normal PNG, but it actually carries your data inside its
 
 ### 🖥️ Screenshot
 
-![screenshot-image](https://raw.githubusercontent.com/archistico/ShadeOfColor2/refs/heads/main/screenshot-image.png)
+FileToImage
 ![screenshot-file](https://raw.githubusercontent.com/archistico/ShadeOfColor2/refs/heads/main/screenshot-file.png)
+  
+ImageToImage
+![screenshot-image](https://raw.githubusercontent.com/archistico/ShadeOfColor2/refs/heads/main/screenshot-image.png)
 
 ---
 
